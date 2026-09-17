@@ -53,3 +53,7 @@ The script:
 - fits GAM smoothers to compare long-term trajectories
 - analyses regime-wise $SOC_{stock}$ sequestration rates
 - generates visualisations and statistical summaries of $SOC_{stock}$ trends.
+
+## Citation
+
+Majid, S. I. (2026). Soil Organic Carbon Simulation with Physics-informed Machine Learning (PIML) and Wavelet Decomposition (Version v1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22806694
